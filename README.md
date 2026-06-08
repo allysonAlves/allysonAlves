@@ -55,17 +55,6 @@ Atualmente cursando **Pós-graduação em DevOps e Arquitetura de Cloud** na FIA
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=allysonAlves&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysonAlves&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
 <div align="center">
 <sub>Rio de Janeiro, RJ · Aberto a oportunidades remotas</sub>
 </div>
